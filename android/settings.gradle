@@ -1,0 +1,3 @@
+rootProject.name = 'livecodeapr3'
+
+include ':app'
